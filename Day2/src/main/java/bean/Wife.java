@@ -1,4 +1,4 @@
-package beans;
+package bean;
 
 /*
  ** @author LiGuanda
@@ -7,8 +7,6 @@ package beans;
  ** @params
  ** @return
  ** @since version-1.0  */
-
-import org.springframework.stereotype.Repository;
 
 public class Wife {
 
@@ -77,11 +75,7 @@ public class Wife {
     @Override
     public String toString() {
 
-        return "Wife{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", husband='" + husband + '\'' +
-                '}';
+        return "Wife{" + "name='" + name + '\'' + ", age=" + age + ", husband='" + husband + '\'' + '}';
 
     }
 
