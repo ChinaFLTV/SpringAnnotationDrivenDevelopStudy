@@ -13,6 +13,8 @@
         <module name="Day6" />
         <module name="Day7" />
         <module name="Day8" />
+        <module name="Day9" />
+        <module name="Day9_springMVC" />
       </profile>
     </annotationProcessing>
   </component>
