@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Day10" />
     <file type="web" url="file://$PROJECT_DIR$/Day9" />
     <file type="web" url="file://$PROJECT_DIR$/Day9_springMVC" />
   </component>
@@ -17,6 +18,7 @@
         <option value="$PROJECT_DIR$/Day8/pom.xml" />
         <option value="$PROJECT_DIR$/Day9/pom.xml" />
         <option value="$PROJECT_DIR$/Day9_springMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/Day10/pom.xml" />
       </list>
     </option>
   </component>
